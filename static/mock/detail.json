@@ -1,0 +1,91 @@
+{
+	"ret": true,
+	"data": {
+		"sightName": "峨眉山(AAAAA景区)",
+		"bannerImage": "//img1.qunarzz.com/sight/p0/1712/16/16dd785ae3e2447ba3.img.jpg_600x330_38a5c69c.jpg",
+		"galleryImages": [
+			"http://img1.qunarzz.com/sight/p92/201211/00/d221848112e4d25393835fbb.jpg_r_800x800_fe561c6f.jpg",
+			"http://img1.qunarzz.com/sight/p75/201211/03/c5e69645fb3de0e193835fbb.jpg_r_800x800_c9c90b34.jpg"
+		],
+		"categoryList": [
+			{
+				"title": "金顶索道",
+				"children": [
+					{
+						"title": "峨眉山金顶索道票（下行）",
+						"children": [
+							{
+								"title": "乘坐线路：起于金顶，止于接引殿"
+							}
+						]
+					},
+					{
+						"title": "峨眉山金顶索道票（上行）"
+					}
+				]
+			},
+			{
+				"title": "万年寺索道"
+			},
+			{
+				"title": "观光车"
+			},
+			{
+				"title": "景区直通车"
+			}
+		],
+		"list": [
+			{
+				"name": "经济酒店",
+				"children": [
+					{
+						"name": "如家",
+						"children": [
+							{
+								"name": "北京路-如家"
+							},
+							{
+								"name": "上海路-如家"
+							}
+						]
+					},
+					{
+						"name": "汉庭",
+						"children": [
+							{
+								"name": "广州路-汉庭"
+							},
+							{
+								"name": "深圳路-汉庭"
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "豪华酒店",
+				"children": [
+					{
+						"name": "汉庭",
+						"children": [
+							{
+								"name": "上江路-汉庭"
+							},
+							{
+								"name": "望江路-汉庭"
+							}
+						]
+					},
+					{
+						"name": "喜来登",
+						"children": [
+							{
+								"name": "长江路-喜来登"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
