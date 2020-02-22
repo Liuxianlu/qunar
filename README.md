@@ -1,5 +1,7 @@
 # qunar
  vuejs仿去哪儿手机端页面
+ 
+预览地址：http://qunar.liuxianlu.com/
 
 初始化项目
 npm run install
