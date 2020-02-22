@@ -6,7 +6,6 @@ const path = require('path');
 
 module.exports = {
 	dev: {
-
 		// Paths
 		assetsSubDirectory: 'static',
 		assetsPublicPath: '/',
@@ -19,13 +18,6 @@ module.exports = {
 				}
 			}
 		},
-
-		// 阿帕奇服务器上数据
-		// proxyTable: {
-		// 	'/api': {
-		// 		target: 'http://localhost'
-		// 	}
-		// },
 
 		// Various Dev Server settings
 		host: 'localhost', // can be overwritten by process.env.HOST
@@ -59,7 +51,6 @@ module.exports = {
 		assetsRoot: path.resolve(__dirname, '../dist'),
 		assetsSubDirectory: 'static',
 		assetsPublicPath: '/',
-
     /**
      * Source Maps
      */
